@@ -1,1 +1,1 @@
-A website to help our dad's business.
+A website for a Rubber Technology business.
